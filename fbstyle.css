@@ -1,0 +1,40 @@
+.top-bar{
+    background-color:#3B5998 ;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.logo{
+    display: inline;
+}
+.top-right{
+    display: inline;
+    float: right;
+    margin-top: -20px;
+    color: white;
+    font-size: 12px;
+}
+.inputs{
+    color: black;
+    background-color: white;
+    border-color: transparent;
+}
+.log-bt{
+    background-color: #4267B2;
+    border-color: transparent;
+}
+.fgt{
+    color: #8BA4CC;
+}
+.half{
+    width: 48%;
+    alignment: center;
+}
+.full{
+    width: 97%;
+    alignment: center;
+}
+body{
+    margin: 0px;
+}
